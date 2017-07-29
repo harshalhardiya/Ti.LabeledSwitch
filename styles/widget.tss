@@ -1,0 +1,16 @@
+"switchView": {
+	width: Ti.UI.FILL
+}
+
+"#lbl": {
+	left: 20,
+	touchEnabled: false,
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE
+}
+
+"#swt": {
+	right: 20,
+	height: Ti.UI.SIZE,
+	width: Ti.UI.SIZE
+}

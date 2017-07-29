@@ -1,0 +1,6 @@
+<Alloy>
+	<View id="switchView">
+		<Label id="lbl"/>	
+		<Switch id="swt"/>
+	</View>
+</Alloy>

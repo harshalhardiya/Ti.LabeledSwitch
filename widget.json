@@ -1,0 +1,13 @@
+{
+	"id": "ti.harshalh.labeledswitch",
+	"name": "ti.harshalh.labeledswitch",
+	"description" : "Native like Labeled Switch/Toggle button compatible for iOS and Android.",
+	"author": "Harshal Hardiya",
+	"version": "1.0",
+	"copyright":"Copyright (c) 2017",
+	"license":"Public Domain",
+	"min-alloy-version": "1.0",
+	"min-titanium-version":"2.1",
+	"tags":"",
+	"platforms":"android,ios"
+}
